@@ -1,0 +1,19 @@
+.mr-auto{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: i.2rem;
+    padding-top: 2px
+}
+
+.auto2{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 30px;
+    width: 70vw;
+    justify-content: left;
+    text-align: center;
+    margin-right: 2rem;
+    list-style: none;
+}

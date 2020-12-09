@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .bg_image{
+    background-image: url('./bg2.jpg');
+    background-size: cover;
+    height: 800px;
+    color: #f5f5f5;
+  }
+
+  .bgimage2{
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    height: 800px;
+    color: #f5f5f5;
+  }
+
+  .b_image{
+    background-image: url('./skyp.jpg');
+    background-size: cover;
+    height: 800px;
+    color: #f5f5f5;
+  }
+
+  .bless{
+    background-image: url('./sky3.jpg');
+    background-size: cover;
+    height: 800px;
+    color: #f5f5f5;
+  }
+  
+  .display{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  .align3{
+    align-items:right;
+    align-content: right;
+  }
+
+  .display2{
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+
+  .right{
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+  }
+
+  .right2{
+    font-weight: bold;
+    font-size: 3em;
+  }
+
+  .user-weather{
+    color: #fff;
+    padding:30px;
+    border-radius: 10px;
+    border:1px solid #fff;
+  }
+  .design{
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgb(79, 12, 204);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+  
+  .dropdown:hover .dropdowncontent {
+    display: block;
+  }
+  
+  
+  .box{
+    border: 20px solid #fcfdfcfa;
+    padding: 9px;
+    margin: 5px;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 28px;
+    align-content: center;
+  }
+  .center{
+  margin: 50px 0px 0px 300px
+  }
+  
+  .box2{
+    border: 15px solid #fcfdfcfa;
+    padding: 9px;
+    margin: 5px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 28px;
+    align-content: center;
+  }
+
+  .style2{
+    margin: 30px 0px 0px 200px
+    }
+  .home{
+    text-align: center;
+  }
+  
+  .align{
+    align-content: right;
+  }
+  
+  .style{
+    align-content: right;
+  }
+  .horizontal 
+  li {
+      float: left;
+    }
+  
+      a {display: block;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+     ul {background-color: #2b1a07;
+  }
+  
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
